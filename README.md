@@ -1,6 +1,3 @@
-
-<div style="background-color: black; color: white; padding: 20px;">
-
 <h1 align="center">Hey Everyone 👋, I'm Ash G</h1>
 <div align="center"> <img src="https://blog.carlow.edu/wp-content/uploads/sites/26/2022/04/how-artificial-intelligence-is-shaping-data-analytics.jpg"> </div>
 <h3 align="center">A passionate Data Scienctist From California, United States.</h3>
@@ -81,4 +78,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ash-0521&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ash-0521&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
