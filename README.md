@@ -1,5 +1,4 @@
 <h1 align="center">Hey Everyone 👋, I'm Ash</h1>
-<div align="center"> <img src="https://blog.carlow.edu/wp-content/uploads/sites/26/2022/04/how-artificial-intelligence-is-shaping-data-analytics.jpg"> </div>
 <h3 align="center">GenAI Product Ops × Data × CX — Building LLM-powered workflows</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
