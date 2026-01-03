@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ash-0521](https://github.com/ash-0521)
 
-- 👨‍💻 Portfolio [Tableau Projects](https://public.tableau.com/app/profile/aishwarya.gupta3014/vizzes)
+- 👨‍💻 Data Storytelling via dashboards [Tableau Projects](https://public.tableau.com/app/profile/aishwarya.gupta3014/vizzes)
 
 - 📫 How to reach me **ashgupta0308@gmail.com**
 
