@@ -1,11 +1,9 @@
-<h1 align="center">Hey Everyone 👋, I'm Ash G</h1>
+<h1 align="center">Hey Everyone 👋, I'm Ash</h1>
 <div align="center"> <img src="https://blog.carlow.edu/wp-content/uploads/sites/26/2022/04/how-artificial-intelligence-is-shaping-data-analytics.jpg"> </div>
-<h3 align="center">A passionate Data Scienctist From California, United States.</h3>
+<h3 align="center">GenAI Product Ops × Data × CX — Building LLM-powered workflows</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash-0521&label=Profile%20views&color=0e75b6&style=flat" alt="ash-0521" /> </p>
-
-- 🌱 I’m passionate about Machine Learning & currently learning **Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ash-0521](https://github.com/ash-0521)
 
@@ -17,9 +15,65 @@
 
 
 ### About Me!!
-<p align="left">👋 Hey there, fellow coders! I'm Ash G, a coding enthusiast with a master's in Information Systems from California State University, Los Angeles and a knack for turning coffee into code. ☕💻. 🚀💻<br><br>📚My academic journey has always been delving into a diverse coursework menu - from System Designing to Data Mining, Web Development to Big Data Science, Statistics and Machine Learning! 🧠💡I am constantly learning and evolving with new technologies.🌐🎓<br><br>💼 In the professional realm, I've been battling bugs as a Teaching Assistant at CSULA, boosting grades by 15% and slashing failure rates by 20%. Previously, I had weaved a coding magic in the world of Finance as a Data Scientist at UPSTOX, where I've orchestrated 50+ real-time dashboards and harnessed the power of Advanced Excel, Tableau, PowerBI and more. 📊📈<br><br>🛠️ As a Software Engineer at Accenture, I deployed scalable data pipelines using Hadoop, Scala, and Python, reducing ETL processing time by 30%. Leading a team of 10 analysts, I navigated the seas of business analysis, ensuring clarity of goals and seamless project execution. 💼💡<br><br>💻 Explore my GitHub, "Ensuring Smiles using Spark ML" to witness projects like  showcase my PySpark and SQL sorcery. From Adidas sales analysis to E-commerce store databases, I've left my digital mark. 🚀📂<br><br>🎓 Beyond the classroom, I've armed myself with certifications like AWS Technical Essential Skills and Google Data Analytics. <br>🤖 My technical skills include Python, Java, R, SQL, Statistics, Machine Learning Models, Big Data toolkit includes Hadoop, Hive, Spark, TensorFlow, and more. From HTML, CSS to React JS & Django frameworks, databases to cloud platforms AWS, Azure, GCP, I've got it covered. 💬💡 🛠️🚀<br><br>💡 Eager to learn and always exploring new technologies, I bring a blend of curiosity and expertise to every project. Let's collaborate, innovate, and create some digital magic together! ✨✨<br>Feel free to explore my repositories, and let's connect for a coding adventure! <br>🚀👩‍💻 #CodeDreamer #InnovationEnthusiast<br>⚡ Fun fact I am an artist</br></p>
+<p align="left">
+🧠 I work in tech to understand how systems actually function.<br>
+How data science & analytics, people, and business decisions interact — and why outcomes diverge at scale.<br><br>
 
-<h3 align="left">Connect with me:</h3>
+🛠️ Somewhere between late nights debugging broken workflow pipelines, teaching students who believed they “weren’t technical or problem solvers,” and staring at dashboards that didn’t tell the full story, I realized something:<br><br>
+
+<b>📊 Data is useless unless it helps someone make a better decision.</b><br>
+That idea has shaped how I approach every problem since.<br><br>
+
+🌱 <b>How I Think About My Work</b><br>
+🔄 I work at the intersection of product, business operations, and data — turning messy reality into clarity through analytics, strategy, and automation.<br><br>
+
+💡 I care deeply about:<br>
+• Why customers get stuck 🚧<br>
+• Where systems quietly fail ⚠️<br>
+• How small changes compound at scale 📈<br><br>
+
+🎯 The goal is always the same:<br>
+<b>reduce friction, increase clarity, and make better decisions easier.</b><br>
+✨ That’s where I do my best work.<br><br>
+
+💻 This GitHub reflects that side of me.<br>
+The builder who prototypes, experiments, and documents — whether it’s Spark ML pipelines, SQL models, analytics systems, or early GenAI agent workflows 🤖⚙️.<br><br>
+
+</p>
+🧪 <b>Things I Build & Explore</b><br><br>
+My repositories reflect how I think:<br>
+• PySpark ML using Databricks projects that focus on why models behave the way they do<br>
+• SQL and ETL schema data modeling that favors clarity over cleverness<br>
+• Analytics projects that emphasize storytelling, not just charts<br>
+• Experiments with automation and GenAI to reduce manual work<br><br>
+
+
+🛠️ <b>Tools I Use</b><br><br>
+I’m comfortable across:<br>
+• Tech Stack- Python, SQL, PySpark, ML libraries, R, SAS, NoSQL, Javascript <br>
+• BI tools/ Data Analytics platforms- Looker, Tableau, PowerBI <br>
+• Product Analytics platforms - Amplitude, MixPanel, Sumologic <br>
+• Cloud systems - AWS, Azure, GCP<br>
+• Automation tools - Airflow, Zapier, n8n, bash scripting, and GenAI tools<br>
+But tools and skills are interchangeable.<br>
+
+
+🎨 <b>Outside of Tech</b><br><br>
+I’m an artist.<br>
+Which probably explains why I care about:<br>
+• structure and intuition<br>
+• logic and aesthetics<br>
+• precision and storytelling<br>
+Creativity is not separate from engineering — it’s how good systems are designed.<br><br>
+
+🤝 <b>Let’s Connect — Values I Believe In</b><br><br>
+• Customer obsession & user empathy 💙<br>
+• Data should serve people 📊➡️👥<br>
+• Enjoy building scalable & reliable systems 🏗️⚙️<br><br>
+
+I’m always open to collaborating on GenAI, LLM-powered systems, and data-driven products 🤖✨ — feel free to reach out.
+
+
 <p align="left">
 <a href=mailto:“ashgupta0308@gmail.com” target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a> 
 
